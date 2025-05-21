@@ -63,7 +63,7 @@ L'enseignant vous transmettera le code de la session durant l'évaluation.
 ## Livrables attendus
 
 À la fin de l'évaluation, vous devrez fournir :
-- les fichiers Dockerfile et docker-compose.yml commenté à mettre dans le répertoire [restfull_api](/restfull_api/), 
+- le ou les fichiers de déploiement Docker commenté à mettre dans le répertoire [restfull_api](/restfull_api/), 
 - une documentation technique complète du déploiement au format markdown à compléter dans le document [README](/docs/README.md),
 
 La qualité de la documentation et la clarté des explications seront particulièrement évaluées.
