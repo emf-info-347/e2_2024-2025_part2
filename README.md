@@ -34,7 +34,7 @@ Veuillez suivre les paramètres suivants pour déployer votre application :
 - **Port de l'application Rest** : `8080`
 - **Version du node pour l'application REST** : `18`
 - **Application avec la dernière mise-à-jour** : `oui` (récupérer les sources depuis github)
-- **Script de démarrage de l'application** : `dev` 
+- **Script de démarrage de l'application** : `dev` (voir [packages.json](https://github.com/almoggutin/node-express-rest-api-mysql-js-example/blob/main/package.json)), syntaxe `npm run dev`.
 
 Veuillez utiliser le code SQL suivant de création de la base de données MySQL :
 ```
