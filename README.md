@@ -49,7 +49,7 @@ CREATE TABLE users (
 ```
 **Ajouter des données dans la table users avec le mot-clé que l'enseignant vous aura transmis.**
 
-La phase suivante concernera l'exécution et le test du déploiement. Vous utiliserez les commandes Docker appropriées pour construire l'image, vérifier sa création correcte, lancer le conteneur avec les paramètres adaptés et afficher le résultat.
+La phase suivante concernera l'exécution et le test du déploiement. Vous utiliserez les commandes appropriées pour exécuté la composition des conteneurs.
 
 Tout au long du processus, vous devrez documenter minutieusement votre travail, incluant les commandes utilisées, les problèmes rencontrés et leurs solutions, ainsi que les choix techniques que vous aurez effectués.
 
